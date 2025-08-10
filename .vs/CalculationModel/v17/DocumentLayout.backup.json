@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\questionnaire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\questionnaire.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\questionnaire.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\questionnaire.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\resultspage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\resultspage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\resultspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\resultspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\services\\allowanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\services\\allowanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\calculationmodel\\calculationmodel\\calculationmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CEDF173-E70E-4E7F-AD5B-62AFFFD4BAB0}|CalculationModel\\CalculationModel.csproj|solutionrelative:calculationmodel\\calculationmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CalculationModel\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T14:55:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CalculationModel\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T14:55:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationResult.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Models\\CalculationResult.cs",
+              "RelativeDocumentMoniker": "CalculationModel\\Models\\CalculationResult.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Models\\CalculationResult.cs",
+              "RelativeToolTip": "CalculationModel\\Models\\CalculationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:10:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculationModel",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\CalculationModel.csproj",
+              "RelativeDocumentMoniker": "CalculationModel\\CalculationModel.csproj",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\CalculationModel.csproj",
+              "RelativeToolTip": "CalculationModel\\CalculationModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T14:09:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\ResultsPage.cshtml.cs",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\ResultsPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\ResultsPage.cshtml.cs",
+              "RelativeToolTip": "CalculationModel\\Pages\\ResultsPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:28:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultsPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\ResultsPage.cshtml",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\ResultsPage.cshtml",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\ResultsPage.cshtml",
+              "RelativeToolTip": "CalculationModel\\Pages\\ResultsPage.cshtml",
+              "ViewState": "AgIAACUBAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T10:41:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Program.cs",
+              "RelativeDocumentMoniker": "CalculationModel\\Program.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Program.cs",
+              "RelativeToolTip": "CalculationModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:49:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Questionnaire.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Questionnaire.cshtml.cs",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\Questionnaire.cshtml.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Questionnaire.cshtml.cs",
+              "RelativeToolTip": "CalculationModel\\Pages\\Questionnaire.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:42:50.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Questionnaire.cshtml",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Questionnaire.cshtml",
+              "RelativeDocumentMoniker": "CalculationModel\\Pages\\Questionnaire.cshtml",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Pages\\Questionnaire.cshtml",
+              "RelativeToolTip": "CalculationModel\\Pages\\Questionnaire.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T17:42:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllowanceService.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Services\\AllowanceService.cs",
+              "RelativeDocumentMoniker": "CalculationModel\\Services\\AllowanceService.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\CalculationModel\\CalculationModel\\Services\\AllowanceService.cs",
+              "RelativeToolTip": "CalculationModel\\Services\\AllowanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:52:33.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
